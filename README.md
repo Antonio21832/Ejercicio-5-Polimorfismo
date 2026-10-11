@@ -19,3 +19,5 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 
 Estuardo Antonio Molina Donis 26878
+Ejecutar con javac --release 23 -d bin src\*.java
+java -cp bin Main
